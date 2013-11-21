@@ -7,9 +7,9 @@ module.exports = {
         longDateFormat : {
         LT : "HH:mm",
         L : "DD-MM-YYYY",
-        LL : "D MMM YYYY",
-        LLL : "D MMMM YYYY LT",
-        LLLL : "dddd D. MMMM, YYYY LT"
+        LL : "Do MMM YYYY",
+        LLL : "Do MMMM YYYY LT",
+        LLLL : "dddd Do MMMM, YYYY LT"
     },
     calendar : {
         sameDay : '[I dag kl.] LT',
