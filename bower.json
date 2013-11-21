@@ -1,6 +1,6 @@
 {
   "name": "moment-languages",
-  "version": "1.0.0-beta.2",
+  "version": "1.0.0-beta.3",
   "homepage": "https://github.com/billysbilling/moment-languages",
   "main": "src/js/index.js",
   "billy-builder": {
